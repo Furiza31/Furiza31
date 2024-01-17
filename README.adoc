@@ -12,4 +12,4 @@ I'm Hugo Wendjaneh, a french student in computer science. I'm currently in my 2n
 * 📫 How to reach me:
     ** Email: hugo.wendjaneh@gmail.com
     ** LinkedIn: https://www.linkedin.com/in/hugo-wendjaneh-036637252/[Hugo Wendjaneh]
-    ** My website: (in progress)
+    ** My website: https://furiza31.github.io/portfolio/
