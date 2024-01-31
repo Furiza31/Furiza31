@@ -7,7 +7,7 @@
 :nofooter:
 
 Hello 👋, +
-I'm Hugo Wendjaneh, a french student in computer science. I'm currently in my 2nd year of studies at the University of Blagnac with application development option. I'm passionate about computer science and I'm always looking for new challenges.
+I'm Hugo Wendjaneh, a french student in computer science. I'm currently in my 3rd year of studies at the University of Blagnac with application development option. I'm passionate about computer science and I'm always looking for new challenges.
 
 * 📫 How to reach me:
     ** Email: hugo.wendjaneh@gmail.com
