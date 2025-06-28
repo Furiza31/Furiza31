@@ -1,19 +1,9 @@
-= Hugo Wendjaneh
-:email: hugo.wendjaneh@gmail.com
-:toc: auto
-:toc-title: Sommaire
-:toclevels: 4
-:title-separator: any
-:nofooter:
+# Hugo Wendjaneh
 
-Hello 👋, +
-I'm Hugo Wendjaneh, a french student in computer science. I'm currently in my 3rd year of studies at the University of Blagnac with application development option. I'm passionate about computer science and I'm always looking for new challenges.
+Hello 👋,
+I'm Hugo Wendjaneh, a French computer science student. I'm currently in my 1st year at the EFREI engineering school, majoring in Software and Information Systems. Furthermore, I am passionate about IT and always looking for new challenges.
 
-* 📫 How to reach me:
-    ** Email: hugo.wendjaneh@gmail.com
-    ** LinkedIn: https://www.linkedin.com/in/hugo-wendjaneh-036637252/[Hugo Wendjaneh]
-    ** My website: https://furiza31.github.io/portfolio/
-
+My website: [https://furiza31.github.io/portfolio/](https://furiza31.github.io/portfolio/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-wendjaneh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hugo.wendjaneh@gmail.com) 
