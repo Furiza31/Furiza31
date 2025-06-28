@@ -6,7 +6,9 @@ I'm Hugo Wendjaneh, a French computer science student. I'm currently in my 1st y
 ## 🌐 Socials:
 
 LinkedIn: [https://linkedin.com/in/hugo-wendjaneh](hugo-wendjaneh)
+
 Email: [mailto:hugo.wendjaneh@gmail.com](hugo.wendjaneh@gmail.com)
+
 My portfolio: [https://furiza31.github.io/portfolio/](https://furiza31.github.io/portfolio/)
 
 # 💻 Tech Stack:
